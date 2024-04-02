@@ -12,7 +12,7 @@ Generates armchair and zigzag nanoribbons and finds their neighbouring atom list
 Please note that zigzag nanoribbons needs further tunning as the functions do not sometimes work as intended. 
 
 # Future Works
-The aim is to create tight-binding matrices from the neighbouring lists and then to find the electronic band structure of the GNRs. I have added a pseudocode to generate the Hamiltonian matrix elements.
+The aim is to create tight-binding matrices from the neighbouring lists and then to find the electronic band structure of the GNRs. I have added a pseudocode, named pseudocode_tight_binding, to have an idea how to generate the Hamiltonian matrix elements.
 
 
 
